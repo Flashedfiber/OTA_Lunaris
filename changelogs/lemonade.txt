@@ -1,5 +1,50 @@
 Changelog
 
+29/05/2026
+
+Device changelogs will be updated soon : Thanks to SuperJammy & Madara273c for device trees and kernel.
+
+Source changelogs 
+UI & Customisation
+- Add Skydrove color customisation for clock style
+- Add option to browse all clocks
+- Add Status Bar brightness control
+- Update clock sizes and add new clocks
+- Add weather support in select clocks
+- Enable power button Gemini animation
+- Add L3 popup unlock animation
+- Enable Material3 for document UI (file manager)
+
+System
+- Add option in idle manager to trigger only when sleep mode is on
+- Fix performance issues with OneUI app drawer style
+- Replace QuickSpace OOS clock color polling with static split color
+- Merge new Lineage changes
+
+Quick Settings
+- Add initial split QS option
+- Improve QS pull-down animation in split QS
+- Add left/right swipe gestures in split QS
+- Use directional swipe for split QS (WIP)
+- Add haptics in QS widget sliders
+- Disable split notification shade when split QS on in landscape (temp)
+
+Dynamic Bar
+- Update dynamic bar color tokens
+- Fix dynamic bar collapse event
+- Align dynamic bar expanded cards to top center
+- Fix extended media text color in light mode
+
+Bug Fixes
+- Fix app lock notification issue
+- Fix volume slider fill not hiding at zero volume
+- Fix slider widget inner slider corner radius when set rounded
+- Fix always-on haptics mode triggering visual pulse
+- Fix shake gestures ringer mode not working
+- Replace white flashbang during screen wakeup in light mode with proper scrim
+
+=========
+
 13/05/2026
 
 Source changelogs
