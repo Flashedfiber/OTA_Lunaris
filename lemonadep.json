@@ -12,17 +12,7 @@
       "size": 3003937549,
       "version": "3.11",
       "buildtype": "Gapps",
-      "forum": "",
-      "gapps": "",
-      "firmware": "",
-      "modem": "",
-      "bootloader": "",
-      "recovery": "",
-      "paypal": "",
-      "telegram": "",
-      "dt": "",
-      "common-dt": "",
-      "kernel": ""
+      "note": "If you register low sounds while video recording or voice messages recording, then flash firmware."
     }
   ]
 }
