@@ -4,25 +4,14 @@
       "maintainer": "flashedfiber",
       "oem": "oneplus",
       "device": "lemonade",
-      "filename": "Lunaris-AOSP-lemonade-UNOFFICIAL-3.11-GMS-2026060613.zip",
-      "download": "https://files.dataheaven.space/s/RPqycjNHiszDYzg/download",
-      "timestamp": 1780774125,
-      "md5": "afdae3f2dca0ac6d4716a467328fd3a1",
-      "sha256": "1cb0b68cce720d6e534a7d4a483302eb122897c182ec15816cf32a5025bf9602",
-      "size": 3000701634,
-      "version": "3.11",
-      "buildtype": "Gapps",
-      "forum": "",
-      "gapps": "",
-      "firmware": "",
-      "modem": "",
-      "bootloader": "",
-      "recovery": "",
-      "paypal": "",
-      "telegram": "",
-      "dt": "",
-      "common-dt": "",
-      "kernel": ""
+      "filename": "Lunaris-AOSP-lemonade-UNOFFICIAL-3.11-GMS-2026061613.zip",
+      "download": "https://files.dataheaven.space/s/cztj7Bfdes46nxA/download",
+      "timestamp": 1781862298,
+      "md5": "bdbd0aaf986aca1fc736a02229705fa6",
+      "sha256": "778e0709ff92f433fabdfa3e1d8e56841cc5016847a12b2788a1a5f5c44a3c8d",
+      "size": 2803085221,
+      "version": "3.11-Unofficial",
+      "note": "If you face Low sound on recorded videos or voice notes, then try flashing firmware again"
     }
   ]
 }

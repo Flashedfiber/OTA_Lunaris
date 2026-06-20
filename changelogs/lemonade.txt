@@ -1,5 +1,24 @@
 Changelog
 
+19/06/2026
+
+Device Changelog
+
+- Switch to Sakura Kernel by Madara273
+- Updated KernelSU Next to v3.2.0 with SUSFS integrated
+- Added animations to alert slider notifications (Thanks to SuperJammy!)
+- Switched to Pixel AIDL Thermal HAL v3
+  → Shows warning when skin temp reaches 52 °C
+  → Automatically drops FPS to 60 Hz on thermal throttle
+- Removed OOS Camera completely
+- Aperture (LoS Camera) can now record up to 4K60 and 120 FPS (Thanks to Thuryn - Unofficial EvoX Dev!)
+
+Source Changelog
+
+- https://t.me/lunaris_dailyUP/970
+
+=========
+
 06/06/2026
 
 Lunaris AOSP 3.11 Update Pushed!

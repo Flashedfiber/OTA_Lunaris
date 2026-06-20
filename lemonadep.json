@@ -4,15 +4,14 @@
       "maintainer": "flashedfiber",
       "oem": "oneplus",
       "device": "lemonadep",
-      "filename": "Lunaris-AOSP-lemonadep-UNOFFICIAL-3.11-GMS-2026060611.zip",
-      "download": "https://files.dataheaven.space/s/sEfzpn28KofyFzk/download",
-      "timestamp": 1780773909,
-      "md5": "e68b8754a29ed79dbe96ea288630c414",
-      "sha256": "08bbd78814f991fe3d0802f957ee45848601c8bba8bd8ae82f4e2f0296bb35da",
-      "size": 3003937549,
-      "version": "3.11",
-      "buildtype": "Gapps",
-      "note": "If you register low sounds while video recording or voice messages recording, then flash firmware."
+      "filename": "Lunaris-AOSP-lemonadep-UNOFFICIAL-3.11-GMS-2026061613.zip",
+      "download": "https://files.dataheaven.space/s/dtXs7og3msKZ2Wk/download",
+      "timestamp": 1781862651,
+      "md5": "f117095c0f55e2f5ebe69820ee31da08",
+      "sha256": "61eb76f99ed07393417bdc6a16bf06fba21cd3da881d39c5ac1489d25c5e8249",
+      "size": 2806705083,
+      "version": "3.11-Unofficial",
+      "note": "If you face Low sound on recorded videos or voice notes, then try flashing firmware again"
     }
   ]
 }
